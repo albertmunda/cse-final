@@ -1,0 +1,1 @@
+This directory contains some techniques related to computer science and technology.
